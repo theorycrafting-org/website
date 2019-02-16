@@ -1,0 +1,28 @@
+{
+  "name": "@sensiblesoftware/vuepress-subthemes",
+  "version": "1.0.0",
+  "description": "alternative search plugin for vuepress, powered by lunr",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seb_renauld/lunr-search"
+  },
+  "dependencies": {
+    "@vuepress/shared-utils": "^1.0.0-alpha.0"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator"
+  ],
+  "author": "Seb Renauld <seb.renauld@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seb_renauld/lunr-search/issues"
+  },
+  "homepage": "https://github.com/seb_renauld/lunr-search/"
+}
